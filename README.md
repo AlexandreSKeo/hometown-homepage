@@ -1,4 +1,4 @@
-# co7f044c98fdc4f644167471c
+# Hometown-homepage project
 
 Quick start:
 
